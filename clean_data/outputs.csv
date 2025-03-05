@@ -1,0 +1,392 @@
+"provider_name","provider_id","provided_name","provided_id","share_provided","negligible_market_share","group","share"
+"Intel","P9","Logic chip design: Advanced CPUs","N1",NA,"","N1",0.5
+"AMD","P10","Logic chip design: Advanced CPUs","N1",NA,"","N1",0.5
+"Nvidia","P11","Logic chip design: Discrete GPUs","N2",NA,"","N2",0.5
+"Jingjia Micro","P12","Logic chip design: Discrete GPUs","N2",NA,"negligible","small",0.01
+"Loongson","P13","Logic chip design: Advanced CPUs","N1",NA,"negligible","small",0.01
+"Zhaoxin","P14","Logic chip design: Advanced CPUs","N1",NA,"negligible","small",0.01
+"Phytium","P15","Logic chip design: Advanced CPUs","N1",NA,"negligible","small",0.01
+"Efinix","P16","Logic chip design: FPGAs","N3",NA,"negligible","small",0.01
+"Lattice","P18","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"Intel","P9","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"AMD","P10","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"Microchip","P19","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"Achronix","P20","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"Flex Logic","P21","Logic chip design: FPGAs","N3",NA,"","N3",0.166666666666667
+"HiSilicon","P17","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Google","P22","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Cerebras","P23","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Tesla","P24","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Graphcore","P25","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Cambricon","P26","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Horizon Robotics","P27","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Intellifusion","P28","Logic chip design: AI ASICs","N4",NA,"","N4",0.125
+"Gowin","P29","Logic chip design: FPGAs","N3",NA,"negligible","small",0.01
+"Shenzhen Pango","P30","Logic chip design: FPGAs","N3",NA,"negligible","small",0.01
+"Sunway","P31","Logic chip design: Advanced CPUs","N1",NA,"negligible","small",0.01
+"AMD","P10","Logic chip design: Discrete GPUs","N2",NA,"","N2",0.5
+"TSMC","P34","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Samsung","P35","Fabrication","S2",NA,"","S2",0.0555555555555556
+"GlobalFoundries","P36","Fabrication","S2",NA,"","S2",0.0555555555555556
+"SMIC","P37","Fabrication","S2",NA,"","S2",0.0555555555555556
+"UMC","P38","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Powerchip","P39","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Hua Hong","P40","Fabrication","S2",NA,"","S2",0.0555555555555556
+"STMicroelectronics","P42","Fabrication","S2",NA,"","S2",0.0555555555555556
+"NXP","P43","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Toshiba","P44","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Intel","P9","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Microchip","P19","Fabrication","S2",NA,"","S2",0.0555555555555556
+"Amkor","P49","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"JCET","P50","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Powertech","P57","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"TongFu","P52","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Tianshui Huatian Technology","P53","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"UTAC","P54","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"SK Hynix","P55","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Micron","P56","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Powertech","P57","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Intel","P9","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"Samsung","P35","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"TSMC","P34","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"ASE","P48","Assembly, testing, and packaging (ATP)","S3",NA,"","S3",0.0476190476190476
+"PVA TePla","P58","Crystal growing furnaces","N8",NA,"","N8",0.5
+"JSG","P59","Crystal growing furnaces","N8",NA,"negligible","small",0.01
+"Accretech","P60","Crystal machining tools","N9",NA,"","N9",0.142857142857143
+"Okamoto","P61","Crystal machining tools","N9",NA,"","N9",0.142857142857143
+"Disco","P62","Crystal machining tools","N9",NA,"","N9",0.142857142857143
+"Meyer Burger","P63","Crystal machining tools","N9",NA,"","N9",0.142857142857143
+"Toyo","P64","Crystal machining tools","N9",NA,"","N9",0.142857142857143
+"JSG","P59","Crystal machining tools","N9",NA,"negligible","small",0.01
+"Beijing JingYi Century Automatic Equipment","P66","Crystal machining tools","N9",NA,"negligible","small",0.01
+"EV Group","P67","Wafer bonding and aligning tools","N10",NA,"","N10",0.166666666666667
+"SUSS MicroTec","P68","Wafer bonding and aligning tools","N10",NA,"","N10",0.166666666666667
+"Neutronix","P69","Wafer bonding and aligning tools","N10",NA,"","N10",0.166666666666667
+"SMEE","P70","Wafer bonding and aligning tools","N10",NA,"negligible","small",0.01
+"Daifuku","P71","Wafer handlers","N11",NA,"","N11",0.1
+"Rorze","P72","Wafer handlers","N11",NA,"","N11",0.1
+"SEMES","P73","Wafer handlers","N11",NA,"","N11",0.1
+"Muratec","P74","Wafer handlers","N11",NA,"","N11",0.1
+"Gudeng","P75","Wafer handlers","N11",NA,"","N11",0.1
+"RECIF","P76","Wafer handlers","N11",NA,"","N11",0.1
+"SMEE","P70","Wafer handlers","N11",NA,"negligible","small",0.01
+"Brooks","P77","Photomask handlers","N12",NA,"","N12",0.166666666666667
+"Daifuku","P71","Photomask handlers","N12",NA,"","N12",0.166666666666667
+"Gudeng","P75","Photomask handlers","N12",NA,"","N12",0.166666666666667
+"RECIF","P76","Photomask handlers","N12",NA,"negligible","small",0.01
+"Applied Materials","P81","Ion implanters","N17",NA,"","N17",0.166666666666667
+"Nissin Ion","P82","Ion implanters","N17",NA,"","N17",0.166666666666667
+"SMIT","P83","Ion implanters","N17",NA,"","N17",0.166666666666667
+"Axcelis","P84","Ion implanters","N17",NA,"","N17",0.166666666666667
+"CETC","P85","Ion implanters","N17",NA,"negligible","small",0.01
+"Hermes-Epitek","P86","Ion implanters","N17",NA,"negligible","small",0.01
+"Kingstone Semiconductor","P87","Ion implanters","N17",NA,"negligible","small",0.01
+"ASML","P88","EUV scanners","N20",1,"","N20",1
+"ASML","P88","ArF immersion scanners","N22",0.91,"","N22",0.91
+"ASML","P88","ArF scanners","N21",0.57,"","N21",0.57
+"Nikon","P89","ArF immersion scanners","N22",0.09,"","N22",0.09
+"Nikon","P89","ArF scanners","N21",0.43,"","N21",0.43
+"SMEE","P70","ArF scanners","N21",NA,"negligible","small",0.01
+"NuFlare","P91","Electron-beam lithography tools","N29",NA,"","N29",0.2
+"JEOL","P92","Electron-beam lithography tools","N29",NA,"","N29",0.2
+"Applied Materials","P81","Electron-beam lithography tools","N29",NA,"negligible","small",0.01
+"Vistec","P93","Electron-beam lithography tools","N29",NA,"negligible","small",0.01
+"Mycronic","P94","Laser lithography tools","N30",0.97,"","N30",0.97
+"Heidelberg Instruments","P95","Laser lithography tools","N30",0.03,"","N30",0.03
+"Tokyo Electron","P105","Resist processing tools","N32",NA,"","N32",0.166666666666667
+"Screen","P106","Resist processing tools","N32",NA,"","N32",0.166666666666667
+"SUSS MicroTec","P68","Resist processing tools","N32",NA,"negligible","small",0.01
+"SEMES","P73","Resist processing tools","N32",NA,"negligible","small",0.01
+"Kingsemi","P107","Resist processing tools","N32",NA,"negligible","small",0.01
+"Brewer Science","P108","Resist processing tools","N32",NA,"negligible","small",0.01
+"Rite Track","P109","Resist processing tools","N32",NA,"negligible","small",0.01
+"Applied Materials","P81","Plasma CVD tools","N38",NA,"","N38",0.166666666666667
+"Lam Research","P111","Plasma CVD tools","N38",NA,"","N38",0.166666666666667
+"ASM International","P112","Plasma CVD tools","N38",NA,"negligible","small",0.01
+"Piotech","P113","Plasma CVD tools","N38",NA,"negligible","small",0.01
+"SKY Technology Development","P114","Plasma CVD tools","N38",NA,"negligible","small",0.01
+"Lam Research","P111","Low-pressure CVD tools","N39",NA,"","N39",0.166666666666667
+"Applied Materials","P81","Low-pressure CVD tools","N39",NA,"","N39",0.166666666666667
+"Tokyo Electron","P105","Low-pressure CVD tools","N39",NA,"","N39",0.166666666666667
+"NAURA","P115","Low-pressure CVD tools","N39",NA,"negligible","small",0.01
+"Applied Materials","P81","High-temperature CVD tools","N40",NA,"","N40",0.166666666666667
+"ASM International","P112","High-temperature CVD tools","N40",NA,"","N40",0.166666666666667
+"ASM International","P112","Atomic layer deposition tools","N41",NA,"","N41",0.1
+"Tokyo Electron","P105","Atomic layer deposition tools","N41",NA,"","N41",0.1
+"Kokusai","P116","Atomic layer deposition tools","N41",NA,"","N41",0.1
+"Lam Research","P111","Atomic layer deposition tools","N41",NA,"","N41",0.1
+"Piotech","P113","Atomic layer deposition tools","N41",NA,"negligible","small",0.01
+"NAURA","P115","Atomic layer deposition tools","N41",NA,"negligible","small",0.01
+"Applied Materials","P81","Physical vapor deposition tools","N42",NA,"","N42",0.142857142857143
+"ULVAC","P117","Physical vapor deposition tools","N42",NA,"","N42",0.142857142857143
+"NAURA","P115","Physical vapor deposition tools","N42",NA,"negligible","small",0.01
+"KLA","P118","Physical vapor deposition tools","N42",NA,"","N42",0.142857142857143
+"SKY Technology Development","P114","Physical vapor deposition tools","N42",NA,"negligible","small",0.01
+"Applied Materials","P81","Rapid thermal processing tools","N43",NA,"","N43",0.142857142857143
+"Mattson Tech","P119","Rapid thermal processing tools","N43",NA,"","N43",0.142857142857143
+"Screen","P106","Rapid thermal processing tools","N43",NA,"","N43",0.142857142857143
+"AP Systems","P120","Rapid thermal processing tools","N43",NA,"negligible","small",0.01
+"Veeco","P121","Rapid thermal processing tools","N43",NA,"","N43",0.142857142857143
+"Tokyo Electron","P105","Tube-based diffusion and deposition tools","N44",NA,"","N44",0.125
+"Kokusai","P116","Tube-based diffusion and deposition tools","N44",NA,"","N44",0.125
+"ASM International","P112","Tube-based diffusion and deposition tools","N44",NA,"","N44",0.125
+"NAURA","P115","Tube-based diffusion and deposition tools","N44",NA,"negligible","small",0.01
+"Lam Research","P111","Electrochemical coating tools","N45",NA,"","N45",0.25
+"Applied Materials","P81","Electrochemical coating tools","N45",NA,"","N45",0.25
+"Grand Plastic","P122","Electrochemical coating tools","N45",NA,"negligible","small",0.01
+"Lam Research","P111","Conductor etching tools","N50",NA,"","N50",0.125
+"Applied Materials","P81","Conductor etching tools","N50",NA,"","N50",0.125
+"Hitachi","P97","Conductor etching tools","N50",NA,"","N50",0.125
+"Tokyo Electron","P105","Conductor etching tools","N50",NA,"","N50",0.125
+"NAURA","P115","Conductor etching tools","N50",NA,"","N50",0.125
+"Tokyo Electron","P105","Dielectric etching tools","N51",NA,"","N51",0.142857142857143
+"Lam Research","P111","Dielectric etching tools","N51",NA,"","N51",0.142857142857143
+"AMEC","P123","Dielectric etching tools","N51",NA,"","N51",0.142857142857143
+"Screen","P106","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"Tokyo Electron","P105","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"Lam Research","P111","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"SEMES","P73","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"NAURA","P115","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"Kingsemi","P107","Wet etching and cleaning tools","N49",NA,"","N49",0.0714285714285714
+"Applied Materials","P81","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"EBARA","P128","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"Accretech","P60","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"Hwatsing","P129","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"KCTech","P130","Chemical mechanical planarization tools","N86",NA,"negligible","small",0.01
+"Revasum","P131","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"CETC","P85","Chemical mechanical planarization tools","N86",NA,"","N86",0.111111111111111
+"KLA","P118","Photomask inspection and repair tools","N62",NA,"","N62",0.125
+"Lasertec","P140","Photomask inspection and repair tools","N62",NA,"","N62",0.125
+"Zeiss","P98","Photomask inspection and repair tools","N62",NA,"","N62",0.125
+"Applied Materials","P81","Photomask inspection and repair tools","N62",NA,"","N62",0.125
+"CAMTEK","P141","Wafer level packaging inspection tools","N63",NA,"","N63",0.125
+"Onto Innovation","P139","Wafer level packaging inspection tools","N63",NA,"","N63",0.125
+"Keysight Tech","P142","Process monitoring and curve tracing equipment","N64",NA,"","N64",0.2
+"Keithley Instruments","P143","Process monitoring and curve tracing equipment","N64",NA,"","N64",0.2
+"Top Engineering","P144","Process monitoring and curve tracing equipment","N64",NA,"","N64",0.2
+"KLA","P118","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"ASM Pacific","P145","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"ASTI","P146","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"Koh Young Tech","P147","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"Cohu","P148","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"MIRTEC","P149","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"Grand Tec","P150","Assembly inspection tools","N70",NA,"","N70",0.0666666666666667
+"DISCO","P62","Dicing tools","N71",NA,"","N71",0.0666666666666667
+"Accretech","P60","Dicing tools","N71",NA,"","N71",0.0666666666666667
+"ASM Pacific","P145","Dicing tools","N71",NA,"","N71",0.0666666666666667
+"Longhill","P154","Dicing tools","N71",NA,"","N71",0.0666666666666667
+"SYNOVA","P155","Dicing tools","N71",NA,"","N71",0.0666666666666667
+"Besi","P156","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"ASM Pacific","P145","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"Fasford Tech","P158","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"Canon","P159","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"Hoson","P160","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"PROTEC","P161","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"DIAS Automation","P163","Die attaching tools","N73",NA,"","N73",0.0588235294117647
+"Kulicke & Soffa","P164","Wire bonding tools","N74",NA,"","N74",0.0909090909090909
+"ASM Pacific","P145","Wire bonding tools","N74",NA,"","N74",0.0909090909090909
+"Hesse","P165","Wire bonding tools","N74",NA,"","N74",0.0909090909090909
+"Shinkawa","P166","Wire bonding tools","N74",NA,"","N74",0.0909090909090909
+"DIAS Automation","P163","Wire bonding tools","N74",NA,"","N74",0.0909090909090909
+"ASM Pacific","P145","Advanced interconnect tools","N75",NA,"","N75",0.1
+"SSP","P167","Advanced interconnect tools","N75",NA,"","N75",0.1
+"KOSES","P168","Advanced interconnect tools","N75",NA,"","N75",0.1
+"DIAS Automation","P163","Advanced interconnect tools","N75",NA,"","N75",0.1
+"TOWA","P169","Packaging tools","N76",NA,"","N76",0.0625
+"ASM Pacific","P145","Packaging tools","N76",NA,"","N76",0.0625
+"Besi","P156","Packaging tools","N76",NA,"","N76",0.0625
+"HANMI","P170","Packaging tools","N76",NA,"","N76",0.0625
+"Trinity Tech","P171","Packaging tools","N76",NA,"","N76",0.0625
+"Grand Tec","P150","Packaging tools","N76",NA,"","N76",0.0625
+"DIAS Automation","P163","Packaging tools","N76",NA,"","N76",0.0625
+"ASM Pacific","P145","Integrated assembly tools","N77",NA,"","N77",0.25
+"Grohmann","P172","Integrated assembly tools","N77",NA,"","N77",0.25
+"Advantest","P175","SoC test equipment","N80",NA,"","N80",0.142857142857143
+"Teradyne","P176","SoC test equipment","N80",NA,"","N80",0.142857142857143
+"Cohu","P148","SoC test equipment","N80",NA,"","N80",0.142857142857143
+"UniTest","P177","Burn-in test equipment","N81",NA,"","N81",0.125
+"DI","P178","Burn-in test equipment","N81",NA,"","N81",0.125
+"Micro Control","P179","Burn-in test equipment","N81",NA,"","N81",0.125
+"National Instruments","P180","Linear and discrete testing tools","N82",NA,"","N82",0.0833333333333333
+"TESEC","P181","Linear and discrete testing tools","N82",NA,"","N82",0.0833333333333333
+"AccoTEST","P182","Linear and discrete testing tools","N82",NA,"","N82",0.0833333333333333
+"Hoson","P160","Linear and discrete testing tools","N82",NA,"","N82",0.0833333333333333
+"Shanghai Juno","P183","Linear and discrete testing tools","N82",NA,"","N82",0.0833333333333333
+"Accretech","P60","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"Cohu","P148","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"Tokyo Electron","P105","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"ASM Pacific","P145","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"Grand Tec","P150","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"JHT","P184","Handlers and probes","N83",NA,"","N83",0.0666666666666667
+"Synopsys","P185","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"Cadence","P186","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"Mentor Graphics","P187","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"Ansys","P188","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"Silvaco","P189","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"PDF Solutions","P190","Electronic design automation software","N84",NA,"","N84",0.0909090909090909
+"Huada Empyrean","P191","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Primarius","P192","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Xpeedic","P193","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Semitronix","P194","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Platform-da","P195","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Microscapes","P196","Electronic design automation software","N84",NA,"negligible","small",0.01
+"Arcas-da","P197","Electronic design automation software","N84",NA,"negligible","small",0.01
+"ARM","P198","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Synopsys","P185","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Cadence","P186","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"SST","P199","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Imagination Technologies","P200","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Ceva","P201","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Verisilicon","P202","Core intellectual property","N85",NA,"negligible","small",0.01
+"Achronix","P20","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"Rambus","P203","Core intellectual property","N85",NA,"","N85",0.0769230769230769
+"eMemory Technology","P204","Core intellectual property","N85",NA,"negligible","small",0.01
+"Shin-Etsu","P208","Wafer","N26",NA,"","N26",0.1
+"SUMCO","P225","Wafer","N26",NA,"","N26",0.1
+"GlobalWafers","P226","Wafer","N26",NA,"","N26",0.1
+"Siltronic","P227","Wafer","N26",NA,"","N26",0.1
+"SK Siltron","P228","Wafer","N26",NA,"","N26",0.1
+"Okmetic","P229","Wafer","N26",NA,"negligible","small",0.01
+"JRH","P230","Wafer","N26",NA,"negligible","small",0.01
+"Zhonghuan","P231","Wafer","N26",NA,"negligible","small",0.01
+"Gritek","P232","Wafer","N26",NA,"negligible","small",0.01
+"MCL","P233","Wafer","N26",NA,"negligible","small",0.01
+"Simgui","P234","Wafer","N26",NA,"negligible","small",0.01
+"POSHING","P236","Wafer","N26",NA,"negligible","small",0.01
+"ZingSEMI","P237","Wafer","N26",NA,"negligible","small",0.01
+"Dai Nippon","P238","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Photronics","P239","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Toppan Photomasks","P240","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Hoya Corporation","P241","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Taiwan Mask Corporation","P242","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Intel","P9","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"Samsung","P35","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"TSMC","P34","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"GlobalFoundries","P36","Advanced photomasks","N33",NA,"","N33",0.0833333333333333
+"SMIC","P37","Advanced photomasks","N33",NA,"negligible","small",0.01
+"Shenzhen Newway","P205","Advanced photomasks","N33",NA,"negligible","small",0.01
+"JSR","P206","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Tokyo Ohka Kogyo","P207","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Shin-Etsu","P208","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Fujifilm","P209","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Sumitomo","P289","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Dongjin","P211","Photoresist","N31",NA,"","N31",0.0833333333333333
+"DuPont","P222","Photoresist","N31",NA,"","N31",0.0833333333333333
+"EMD Performance Materials","P213","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Inpria","P214","Photoresist","N31",NA,"","N31",0.0833333333333333
+"Ruihong","P215","Photoresist","N31",NA,"negligible","small",0.01
+"Kempur","P216","Photoresist","N31",NA,"negligible","small",0.01
+"Nata Opto-electronic Material","P217","Photoresist","N31",NA,"negligible","small",0.01
+"JHM","P218","Photoresist","N31",NA,"negligible","small",0.01
+"Fujifilm","P209","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Fujimi","P219","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Hitachi","P97","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Saint-Gobain","P220","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Versum Materials","P221","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"DuPont","P222","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Thomas West","P224","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"JSR","P206","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Merck Group","P243","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"CMC","P244","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Anji","P245","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Hubei Dinglong","P246","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"JX Nippon","P247","Deposition materials","N88",NA,"","N88",0.1
+"Honeywell","P248","Deposition materials","N88",NA,"","N88",0.1
+"Tosoh SMD","P249","Deposition materials","N88",NA,"","N88",0.1
+"Linde","P250","Deposition materials","N88",NA,"","N88",0.1
+"Praxair","P251","Deposition materials","N88",NA,"","N88",0.1
+"KFMI","P252","Deposition materials","N88",NA,"","N88",0.1
+"Grikin","P253","Deposition materials","N88",NA,"","N88",0.1
+"Merck Group","P243","Electronic gases","N91",NA,"","N91",0.05
+"Entegris","P255","Electronic gases","N91",NA,"","N91",0.05
+"Air Products","P256","Electronic gases","N91",NA,"","N91",0.05
+"Air Liquide","P257","Electronic gases","N91",NA,"","N91",0.05
+"Praxair","P251","Electronic gases","N91",NA,"","N91",0.05
+"Linde","P250","Electronic gases","N91",NA,"","N91",0.05
+"BASF","P260","Electronic gases","N91",NA,"","N91",0.05
+"TNSC","P261","Electronic gases","N91",NA,"","N91",0.05
+"Showa Denka","P262","Electronic gases","N91",NA,"","N91",0.05
+"Wonik","P263","Electronic gases","N91",NA,"","N91",0.05
+"SK Materials","P264","Electronic gases","N91",NA,"","N91",0.05
+"Nata Opto-electronic Material","P217","Electronic gases","N91",NA,"","N91",0.05
+"Haute Gas","P265","Electronic gases","N91",NA,"","N91",0.05
+"Jinhong","P266","Electronic gases","N91",NA,"","N91",0.05
+"PERIC","P267","Electronic gases","N91",NA,"","N91",0.05
+"KMG Chemicals","P268","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"BASF","P260","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Avantor","P269","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Honeywell","P248","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Kanto Chemical","P270","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Runma","P271","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"JHM","P218","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Sinophorus","P273","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"Sinyang","P274","Wet chemicals","N92",NA,"","N92",0.0769230769230769
+"SH Material","P308","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Mitsui High-Tec","P290","Lead frames","N93",NA,"","N93",0.0909090909090909
+"ASM Pacific","P145","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Shinko","P299","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Kangqiang","P281","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Ningbo Hualong","P309","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Trinity Tech","P171","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Yongzhi","P276","Lead frames","N93",NA,"","N93",0.0909090909090909
+"Heraeus","P277","Bond wires","N94",NA,"","N94",0.111111111111111
+"Tanaka Denshi","P278","Bond wires","N94",NA,"","N94",0.111111111111111
+"Nippon Micro","P279","Bond wires","N94",NA,"","N94",0.111111111111111
+"Doublink","P280","Bond wires","N94",NA,"","N94",0.111111111111111
+"Kangqiang","P281","Bond wires","N94",NA,"","N94",0.111111111111111
+"YesDo","P282","Bond wires","N94",NA,"","N94",0.111111111111111
+"Amkor","P49","Ceramic packages","N95",NA,"","N95",0.05
+"Quik-Pak","P284","Ceramic packages","N95",NA,"","N95",0.05
+"NGK","P285","Ceramic packages","N95",NA,"","N95",0.05
+"Alent","P286","Ceramic packages","N95",NA,"","N95",0.05
+"Hitachi","P97","Ceramic packages","N95",NA,"","N95",0.05
+"Kyocera","P287","Ceramic packages","N95",NA,"","N95",0.05
+"LG","P288","Ceramic packages","N95",NA,"","N95",0.05
+"Sumitomo","P289","Ceramic packages","N95",NA,"","N95",0.05
+"BASF","P260","Ceramic packages","N95",NA,"","N95",0.05
+"Mitsui High-Tec","P290","Ceramic packages","N95",NA,"","N95",0.05
+"Henkel","P291","Ceramic packages","N95",NA,"","N95",0.05
+"Toray","P292","Ceramic packages","N95",NA,"","N95",0.05
+"Tanaka","P294","Ceramic packages","N95",NA,"","N95",0.05
+"Zhongwei","P295","Ceramic packages","N95",NA,"","N95",0.05
+"Yixing","P296","Ceramic packages","N95",NA,"","N95",0.05
+"Ibiden","P297","Substrates","N96",NA,"","N96",0.0909090909090909
+"NanYa","P298","Substrates","N96",NA,"","N96",0.0909090909090909
+"Shinko","P299","Substrates","N96",NA,"","N96",0.0909090909090909
+"Samsung","P35","Substrates","N96",NA,"","N96",0.0909090909090909
+"Shennan Circuits","P300","Substrates","N96",NA,"","N96",0.0909090909090909
+"Zhuhai Yueya","P301","Substrates","N96",NA,"","N96",0.0909090909090909
+"AKM","P302","Substrates","N96",NA,"","N96",0.0909090909090909
+"Sumitomo","P289","Encapsulation resins","N97",NA,"","N97",0.125
+"Henkel","P291","Encapsulation resins","N97",NA,"","N97",0.125
+"Hitachi","P97","Encapsulation resins","N97",NA,"","N97",0.125
+"Sinopaco","P303","Encapsulation resins","N97",NA,"","N97",0.125
+"HHCK","P304","Encapsulation resins","N97",NA,"","N97",0.125
+"Henkel","P291","Die attach materials","N98",NA,"","N98",0.125
+"Hitachi","P97","Die attach materials","N98",NA,"","N98",0.125
+"Sumitomo","P289","Die attach materials","N98",NA,"","N98",0.125
+"Darbond","P305","Die attach materials","N98",NA,"","N98",0.125
+"Hysol Huawei","P306","Die attach materials","N98",NA,"","N98",0.125
+"Pureon","P310","Chemical mechanical planarization materials","N90",NA,"","N90",0.0588235294117647
+"Renesas","P311","Fabrication","S2",NA,"negligible","small",0.01
+"KLA","P118","Film and wafer measuring tools","N65",NA,"","N65",0.25
+"Bruker","P135","Film and wafer measuring tools","N65",NA,"","N65",0.25
+"Rigaku","P136","Film and wafer measuring tools","N65",NA,"","N65",0.25
+"Screen","P106","Film and wafer measuring tools","N65",NA,"","N65",0.25
+"KLA","P118","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"Hitachi","P97","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"ASML","P88","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"Onto Innovation","P139","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"Applied Materials","P81","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"RSIC","P137","Critical dimensions measurement tools","N66",NA,"","N66",0.166666666666667
+"KLA","P118","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"Applied Materials","P81","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"Hitachi","P97","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"ASML","P88","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"RSIC","P137","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"SMEE","P70","Defect inspection tools","N67",NA,"","N67",0.166666666666667
+"Thermo Fisher","P96","General-purpose microscopy tools","N68",NA,"","N68",0.2
+"Hitachi","P97","General-purpose microscopy tools","N68",NA,"","N68",0.2
+"Zeiss","P98","General-purpose microscopy tools","N68",NA,"","N68",0.2
+"PVA TePla","P58","General-purpose microscopy tools","N68",NA,"","N68",0.2
+"Nanotronics","P138","General-purpose microscopy tools","N68",NA,"","N68",0.2
